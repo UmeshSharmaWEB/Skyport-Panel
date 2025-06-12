@@ -1,13 +1,13 @@
 #                            Installation The Panel
 
-!Run As Root Following This Command = Sudo Su
+!Run As Root Following This Command = sudo su
 
 Install The Panel=
 bash <(curl -s https://raw.githubusercontent.com/UmeshSharmaWEB/Skyport-Panel/refs/heads/main/panel)
 
 #                          Installation The Node
 
-!Run As Root Following This Command = Sudo Su
+!Run As Root Following This Command = sudo su
 
 Install The Node=
 bash <(curl -s https://raw.githubusercontent.com/UmeshSharmaWEB/Skyport-Panel/refs/heads/main/wings)
